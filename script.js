@@ -10,7 +10,7 @@ document.addEventListener('DOMContentLoaded', function () {
     else closeEnvelope();
     jsConfetti.addConfetti({
       emojis: ['🍪', '🌷', '💕'],
-      emojiSize: 100,
+      emojiSize: 200,
       confettiNumber: 20,
     });
   });
